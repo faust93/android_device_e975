@@ -29,6 +29,8 @@ bin/thermald
 bin/time_daemon
 bin/usbhub
 bin/usbhub_init
+bin/fm_qsoc_patches
+bin/fmconfig
 etc/firmware/dxhdcp2.b00
 etc/firmware/dxhdcp2.b01
 etc/firmware/dxhdcp2.b02
